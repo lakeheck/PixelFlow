@@ -1,8 +1,10 @@
 ![PixelFlow Header](http://thomasdiewald.com/processing/libraries/pixelflow/PixelFlow_header.jpg)
 
+
+
 # PixelFlow
 **A Processing/Java library for high performance GPU-Computing (GLSL).**
-
+Originally forked from https://github.com/diwi/PixelFlow/ - thank you for doing the heavy lifting!
 
 <br>
 
